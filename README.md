@@ -1,2 +1,0 @@
-some interesting notes
-more important notes
